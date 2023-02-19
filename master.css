@@ -97,9 +97,12 @@ img {
     border-radius: 13px 13px 0 0;
     }
     img {
-width: 100%;
-border-radius: 13px 13px 0 0;
-}
+
+width: 100%;
+
+border-radius: 13px 13px 0 0;
+
+}
     .img::after {
     width: 100%;
     border-radius: 13px 13px 0 0;
@@ -109,6 +112,7 @@ img {
     padding: 2rem 16px;
     border-radius: 0 0 13px 13px;
     margin-top: 17rem;
+    height:19rem;
 
 }
     h1 {
