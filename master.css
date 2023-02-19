@@ -85,7 +85,7 @@ img {
     height: 99%;
     border-radius: 0 13px 13px 0;
 }
-@media screen and (max-width:380px) {
+@media screen and (max-width:357px) {
     .container {
         max-width: 340px;
     }
